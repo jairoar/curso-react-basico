@@ -1,10 +1,19 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import 'bootstrap/dist/css/bootstrap.css';
+// const element = document.createElement('h1');
+// element.innerText = 'Hello, Platzi Badges!';
 
-import './global.css';
-import App from './components/App';
+// const container = document.getElementById('app');
 
-const container = document.getElementById('app');
+// container.appendChild(element);
+
+import React from "react";
+import ReactDOM from "react-dom";
+import "bootstrap/dist/css/bootstrap.css";
+import "./global.css";
+
+import App from "./components/App";
+
+const container = document.getElementById("app");
+
+//ReactDOM.render(que, donde)
 
 ReactDOM.render(<App />, container);

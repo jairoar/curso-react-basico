@@ -1,0 +1,41 @@
+/*.PageError {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+}*/
+
+div.container1 {
+  margin: 0;
+  position: absolute;
+  top: 56%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.ErrorText__cont {
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  /*margin-top: 2.5rem;*/
+}
+
+.ErrorText__info {
+  font-size: 48px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.Image__err {
+  height: 50%;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
