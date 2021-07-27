@@ -1,4 +1,4 @@
-# Curso-React-Básico
+# Curso React Básico
 
 Aplicación Platzi-Badges curso de React Básico de Platzi.
 
